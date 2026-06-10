@@ -1,4 +1,3 @@
-# Docker Images (Alpha Channel)
+# Alpha Docker Images
 
-## Hovertank
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/CosmicRaycast/Hovertank-alpha/tree/main)
+> Click here for [Production Docker Images](https://github.com/cosmicraycastbot/images)
